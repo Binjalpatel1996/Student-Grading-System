@@ -1,0 +1,31 @@
+﻿body{
+    background-color:aliceblue;
+}
+
+.div-CSSclass {
+    text-align: center;
+}
+
+.Validation-CssClass {
+    color: red;
+    font-weight: bold;
+}
+#LinkButton1{
+    text-align:right;
+
+}
+
+.sidelabel {
+    display: inline-block;
+    width: 200px;
+    color: gray;
+    text-align: right;
+}
+
+.rightcontrol {
+    margin-left: 10px;
+    width: 150px;
+}
+#div1{
+    margin-left: 20%;
+}
